@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "id": "805308ff-f5e7-488f-9e85-786957924618",
+  "ts": "2025-09-28T07:16:43.195842Z",
+  "report": {
+    "date": "2025-10-28",
+    "experts": [
+      "سعیدی پور",
+      "حسینی",
+      "حسنی"
+    ],
+    "requester": "شهرداری 12",
+    "valuation_riyal": 10000000000,
+    "fee_riyal": 40000000,
+    "fee_tariff_version": "2025-09"
+  },
+  "alg": "ED25519",
+  "kid": "key-2025-09",
+  "sig": "XVOFYxXkRAID0vPgICKE21VqHjEqvUNlyLQ8tUzz5e-G315c_Fd_E8k2ZrB38Rs2aJiYZy9mioS4swNo8cz3Bw"
+}
